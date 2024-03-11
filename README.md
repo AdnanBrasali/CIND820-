@@ -37,6 +37,6 @@ Feature Importance Analysis: Determination of the most influential features in p
 
 Conclusion and Insights: Summary of findings, model performances, and recommendations for investors and market analysts.
 
-Navigating the Repository
+Navigating the Repository:
 
 Begin by exploring the EDA.ipynb for initial data insights, followed by Full Analysis with and without adding new features.ipynb for a deep dive into the modeling process and outcomes. Visualizations in the Plots/ directory offer graphical representations of data and model evaluations, providing intuitive understanding of the analysis conducted.
