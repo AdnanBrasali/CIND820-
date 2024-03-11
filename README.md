@@ -5,7 +5,7 @@ Project Overview:
 This project aims to predict stock market trends by leveraging machine learning techniques on a dataset spanning from 2013 to 2023, sourced from Kaggle and comprising approximately 25,000 data points. The primary objectives include forecasting future stock prices using Random Forest Regression, Decision Trees Regressor, and K-Nearest Neighbors Regressor, while also determining the directional movement of stock prices through Decision Trees Classifier, K-Nearest Neighbors Classifier, and Random Forest Classifier. The implementation is carried out in Python, with Scikit-learn for machine learning, Pandas for data handling, and Matplotlib and Seaborn for visualization. Evaluation metrics encompass Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), accuracy, precision, recall, and F1-score. The project integrates insights from a literature review, acknowledging the evolution of stock market prediction methodologies and identifying gaps in the literature. Analysis frameworks involve descriptive statistics, univariate, and bivariate analyses to uncover trends across ten major companies' stock prices. The ultimate goal is to offer actionable insights into stock market dynamics, contributing to the advancement of financial market analysis and aiding investors and analysts in making informed decisions.
 
 
-Repository Contents
+Repository Contents:
 
 Plots: Directory containing visualizations generated during exploratory data analysis (EDA) and model evaluation stages.
 
@@ -17,7 +17,7 @@ README.md: This file, providing an overview of the project, its structure, and h
 
 dataset.csv: The dataset used in the project, comprising daily stock market data for ten major companies over the last decade.
 
-Stages of the Project
+Stages of the Project:
 
 Literature Review: Examination of previous methodologies from fundamental analyses to advanced machine learning models for stock market prediction.
 
