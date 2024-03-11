@@ -5,8 +5,11 @@ Project Overview
 This project aims to predict stock market trends by employing advanced machine learning techniques. It involves the analysis of historical stock market data to uncover patterns and relationships that can inform future market behaviors. The project is grounded in the application of Random Forest, Decision Tree, and K-Nearest Neighbors (KNN) algorithms, leveraging both regression and classification tasks to predict stock prices and their directional movements.
 
 Repository Contents
-Plots/: Directory containing visualizations generated during exploratory data analysis (EDA) and model evaluation stages.
+
+Plots: Directory containing visualizations generated during exploratory data analysis (EDA) and model evaluation stages.
+
 EDA.ipynb: Jupyter notebook containing the exploratory data analysis of the stock market dataset. It includes data cleaning, visualization, and initial insights.
+
 Full Analysis with and without adding new features.ipynb: Comprehensive Jupyter notebook showcasing the project's methodology, including data preprocessing, feature engineering, model training, and evaluation. The notebook compares model performances with and without newly added technical indicators.
 README.md: This file, providing an overview of the project, its structure, and how to navigate the repository.
 dataset.csv: The dataset used in the project, comprising daily stock market data for ten major companies over the last decade.
