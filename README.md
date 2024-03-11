@@ -1,5 +1,7 @@
 # Stock Market Trends Prediction with Machine Learning
-#Project Overview
+
+Project Overview
+
 This project aims to predict stock market trends by employing advanced machine learning techniques. It involves the analysis of historical stock market data to uncover patterns and relationships that can inform future market behaviors. The project is grounded in the application of Random Forest, Decision Tree, and K-Nearest Neighbors (KNN) algorithms, leveraging both regression and classification tasks to predict stock prices and their directional movements.
 
 Repository Contents
